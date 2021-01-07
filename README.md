@@ -42,7 +42,7 @@
  ## Action Page(action.html). 
  ![Action](QuizPics/Actions.png)
  
- Quiz Browser(browseQuizzes.html). 
+ ## Quiz Browser(browseQuizzes.html). 
  ![Browser1](QuizPics/QuizBrowser1.png)
  
  When a Start button is pressed. 
