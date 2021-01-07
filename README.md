@@ -26,7 +26,7 @@
  When a Start button is pressed. 
  ![Quiz1](QuizPics/Quiz1.png)
  
- After the Submit button is pressed, the score shows up. 
+ After the Submit button is pressed, the score shows up.   
  ![score](QuizPics/ScoreAlert.png)
  
  Then the Back button will be available. 
@@ -38,7 +38,7 @@
  When user tries to add a quiz without name.   
  ![MyQuizAlertName](QuizPics/MyQuizAlertQuizName.png)
  
- When user tries to add a quiz without number of questions. 
+ When user tries to add a quiz without number of questions.   
  ![MyQuizAlertNumber](QuizPics/MyQuizAlertQuizNumber.png)
  
  Example Quiz.   
