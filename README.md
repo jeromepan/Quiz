@@ -1,9 +1,37 @@
 # Quiz
- This Quiz project is done by using Node.js and MangoDB.
+ This Quiz project is done by using Node.js and MongoDB./s/s
  Download and navigate to this project, type `npm run devStart` to start the server.
  
  ## Flowchart
  ![flowchar](QuizPics/frontend-flowchart.png)
+ 
+ ## Database Structure
+ ```
+ {
+   name
+
+   quiz:[{
+
+      name
+
+      questions:[{
+
+         question
+         answer
+
+      }]
+   }]
+
+   attempted:[{
+
+      quizName
+      completion
+      Score
+
+   }]
+
+}
+ ```
  
  ## Login Page(index.html)
  ![Login1](QuizPics/Login1.png)
