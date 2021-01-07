@@ -2,28 +2,6 @@
  This Quiz project is done by using Node.js and MongoDB.  
  Download and navigate to this project, type `npm run devStart` to start the server.
  
- ## Flowchart
- ![flowchar](QuizPics/frontend-flowchart.png)
- 
- ## Database Structure
- ```
- user: {
-   name: String
-   quiz:[{
-      name: String
-      questions:[{
-         question: String
-         answer: String
-      }]
-   }]
-   attempted:[{
-      quizName: String
-      completion: Boolean
-      Score: Number
-   }]
-}
- ```
- 
  ## Login Page(index.html)
  ![Login1](QuizPics/Login1.png)
  
@@ -83,3 +61,26 @@
  
  ## Statistics(statistics.html)
  ![Statistics](QuizPics/Statistics.png)
+
+ ## Flowchart
+ ![flowchar](QuizPics/frontend-flowchart.png)
+ 
+ ## Database Structure
+ ```
+ user: {
+   name: String
+   quiz:[{
+      name: String
+      questions:[{
+         question: String
+         answer: String
+      }]
+   }]
+   attempted:[{
+      quizName: String
+      completion: Boolean
+      Score: Number
+   }]
+}
+ ```
+ 
