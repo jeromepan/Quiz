@@ -27,7 +27,7 @@
  ## Login Page(index.html)
  ![Login1](QuizPics/Login1.png)
  
- When the Login button is pressed with a faulty ID. 
+ When the Login button is pressed with a faulty ID.   
  ![LoginAlertID](QuizPics/LoginAlertID.png)
  
  When the New User button is pressed with a blank user name. 
