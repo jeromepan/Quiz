@@ -1,5 +1,5 @@
 # Quiz
- This Quiz project is done by using Node.js and MongoDB.\s\s
+ This Quiz project is done by using Node.js and MongoDB.  
  Download and navigate to this project, type `npm run devStart` to start the server.
  
  ## Flowchart
