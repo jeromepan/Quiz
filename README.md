@@ -33,13 +33,13 @@
  When the New User button is pressed with a blank user name. 
  ![LoginAlertName](QuizPics/LoginAlertUserName.png)
  
- New User is Created. 
+ New User is Created.   
  ![Login2](QuizPics/Login2.png)
  
  After the OK button is clicked(when new user created) or Login successfully. 
  The Actions page shows up. 
  
- Action Page(action.html). 
+ ## Action Page(action.html). 
  ![Action](QuizPics/Actions.png)
  
  Quiz Browser(browseQuizzes.html). 
@@ -54,22 +54,22 @@
  Then the Back button will be available. 
  ![Quiz2](QuizPics/Quiz2.png)
  
- My Quizzes(myQuiz.html). 
+ ## My Quizzes(myQuiz.html). 
  ![MyQuiz1](QuizPics/MyQuiz1.png)
  
- When user tries to add a quiz without name. 
+ When user tries to add a quiz without name.   
  ![MyQuizAlertName](QuizPics/MyQuizAlertQuizName.png)
  
  When user tries to add a quiz without number of questions. 
  ![MyQuizAlertNumber](QuizPics/MyQuizAlertQuizNumber.png)
  
- Example Quiz. 
+ Example Quiz.   
  ![MyQuiz2](QuizPics/MyQuiz2.png)
  
  When the Go to Add button is clicked  
  ![MyQuizAdd1](QuizPics/MyQuizAdd1.png)
  
- When empty questions or answers were given. 
+ When empty questions or answers were given.   
  ![MyQuizAddAlert](QuizPics/MyQuizAddAlert.png)
  
  Example Question Set. 
