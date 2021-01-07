@@ -8,7 +8,7 @@
  When the Login button is pressed with a faulty ID.   
  ![LoginAlertID](QuizPics/LoginAlertID.png)
  
- When the New User button is pressed with a blank user name. 
+ When the New User button is pressed with a blank user name.   
  ![LoginAlertName](QuizPics/LoginAlertUserName.png)
  
  New User is Created.   
