@@ -8,18 +8,18 @@
  ## Database Structure
  ```
  user: {
-   name
+   name: String
    quiz:[{
-      name
+      name: String
       questions:[{
-         question
-         answer
+         question: String
+         answer: String
       }]
    }]
    attempted:[{
-      quizName
-      completion
-      Score
+      quizName: String
+      completion: Boolean
+      Score: Number
    }]
 }
  ```
